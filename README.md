@@ -1,0 +1,2 @@
+# Aimgoai
+Ai amigo bot
